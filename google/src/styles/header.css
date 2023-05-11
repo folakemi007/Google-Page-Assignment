@@ -1,0 +1,29 @@
+.header{
+     display:flex;
+    justify-content: flex-end;
+    padding:17px;
+}
+.header-content{
+display: flex;
+gap: 20px;
+}
+
+.menuLink{
+    font-size: 11px;
+    color: #5f6368;
+  
+    font-weight: 400;
+    line-height: 16px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.menuLink:hover{
+text-decoration: underline;
+}
+
+/* .user-img{
+    height:"25px";
+    width:"25px";
+    border-radius: "50%";
+
+} */
